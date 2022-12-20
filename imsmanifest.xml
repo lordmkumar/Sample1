@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5pjZmd3hXZH_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Sample_1_SINA</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Sample_1_SINA_ORG">
+    <organization identifier="Sample_1_SINA_ORG">
+      <title>Sample_1_SINA</title>
+      <item identifier="Tabs_SCO" isvisible="true" identifierref="__5pjZmd3hXZH_course_id_RES">
+        <title>Sample_1_SINA</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5pjZmd3hXZH_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5VZNOl4wBZw_M_2160_2160_P_0_0_818_1327.png" />
+      <file href="mobile/6dF2Uqf3FO2_M_2890_2890_P_188_479_1710_836.png" />
+      <file href="mobile/6dF2Uqf3FO2_M_2890_2890_P_0_342_2240_988.png" />
+      <file href="mobile/5zp8roJzHJy_M_836_836.png" />
+      <file href="mobile/6bWRVQ1wppX_M_2198_2198.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape63FHhrb4PbR.png" />
+      <file href="mobile/Shape6EGoSa2wg3Q.png" />
+      <file href="mobile/Shape6EanzbEly57.png" />
+      <file href="mobile/Shape60lCyRw2OL7.png" />
+      <file href="mobile/Shape5zLq1Baxu0P.png" />
+      <file href="mobile/Shape6mP5dbggXYT.png" />
+      <file href="mobile/Shape6g5thP6NgwY.png" />
+      <file href="mobile/Shape6ohs1iN21O2.png" />
+      <file href="mobile/Shape6TEDh1BsnCQ.png" />
+      <file href="mobile/Shape62jnhbXEEk7.png" />
+      <file href="mobile/Shape5UfixpmfGHv.png" />
+      <file href="mobile/Shape6kXh4Y3hfQ0.png" />
+      <file href="mobile/Shape6SWt0tntl0J.png" />
+      <file href="mobile/Shape5a2WPiHtH3X.png" />
+      <file href="mobile/Shape6C4DqnlSZKT.png" />
+      <file href="mobile/Shape60rnUkgnuFe.png" />
+      <file href="mobile/Shape5kwtSKBBBNL.png" />
+      <file href="mobile/Shape5UnF7pxVfWG.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5V1lKBd0wXG.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
